@@ -97,6 +97,7 @@ permanent ban.
 **Community Impact**: A serious violation of community standards, including
 sustained inappropriate behavior.
 
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 **Consequence**: A temporary ban from any sort of interaction or public
 communication with the community for a specified period of time. No public or
 private interaction with the people involved, including unsolicited interaction
